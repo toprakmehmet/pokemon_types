@@ -20,31 +20,31 @@ and saved as pokemon.csv file
 ## Baseline Model
 ![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/baseline_model.png)
   
-  -Logistic Regression
+## Logistic Regression
  ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/log_conf_matrix.png)
   
-  -KNN
+## KNN
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/knn_conf_matrix.png)
  
- -Decision Tree
+## Decision Tree
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/dt_conf_matrix.png)
  
- -Random Forest
+## Random Forest
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/rf_conf_matrix.png)
  
- -Bagged Tree
+## Bagged Tree
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/bt_conf_matrix.png)
 
--AdaBoost
+## AdaBoost
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/ada_conf_matrix.png)
 
--Gradient Boost
+## Gradient Boost
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/gbt_conf_matrix.png)
 
--XGBoost
+## XGBoost
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/xgb_conf_matrix.png)
 
--SVM
+## SVM
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/svm_conf_matrix.png)
 
 
