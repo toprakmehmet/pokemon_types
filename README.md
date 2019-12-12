@@ -1,6 +1,6 @@
 ## Predicting  Pokemon Type
-
-
+![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/International_Pok%C3%A9mon_logo.svg.png)
+![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/dims.jpeg)
 
 ## Goal
 Build best fit machine learning models to predict type of a Pokemon
