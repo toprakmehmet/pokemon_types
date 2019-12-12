@@ -51,3 +51,5 @@ and saved as pokemon.csv file
 ## Performance of ML Models
 ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/result.png)
 
+## Conclusion
+After my machine learning models experiments and extensive feature selection, i had good results with that my best model used  XGBoost.
