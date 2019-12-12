@@ -18,7 +18,7 @@ and saved as pokemon.csv file
 
 ## Visualization of Model Confusion Matrix 
   -Baseline Model
-  ![header(https://github.com/toprakmehmet/pokemon_types/blob/master/pics/baseline_model.png)
+  ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/baseline_model.png)
   
   -Logistic Regression
  ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/log_conf_matrix.png)
