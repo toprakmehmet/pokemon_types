@@ -53,4 +53,4 @@ and saved as pokemon.csv file
 
 ## Conclusion
 After my machine learning models experiments and extensive feature selection, i had good results with that my best model used  KNN with k = 1.
-![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/Screen%20Shot%202019-12-12%20at%206.58.33%20PM.png)
+![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/Screen%20Shot%202019-12-12%20at%207.44.04%20PM.png)
