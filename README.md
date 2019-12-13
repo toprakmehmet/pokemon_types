@@ -6,15 +6,20 @@
 Build best fit machine learning models to predict type of a Pokemon
 
 ## Data Source
-The data was gathered with web scraping method from https://www.pokemon.com/us/ page
-and saved as pokemon.csv file
+The data was web scraped from https://www.pokemon.com/us/ 
+and saved as a pokemon.csv file
+
+https://www.pokemon.com/us/ is a website run by Pokemon, owned by the parent company of Nintendo. It is a site that mains current and past records of all Pokemon statistics and types.
 
 ## Python Tools:
-   - pandas
-   - beautifulsoup
-   - sklearn
+   - Pandas
+   - Beautifulsoup
+   - Sklearn
    - Seaborn/Matplotlib
    - SciPy/NumPy
+
+## Statitstical Tests Used
+In order to determine a bestfit model, the following 9 were tested. As you can see below KNN was the most effective with a K value of 1. 
 
 ## Visualization of Model Confusion Matrix 
 ## Baseline Model
@@ -51,6 +56,5 @@ and saved as pokemon.csv file
 ## Performance of ML Models
 ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/result.png)
 
-## Conclusion
-After my machine learning models experiments and extensive feature selection, i had good results with that my best model used  KNN with k = 1.
-![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/Screen%20Shot%202019-12-12%20at%207.44.04%20PM.png)
+## Future Applications
+As one of many avid pokemone fans out there. This model can assist in detemining the type of each pokemon and help trainers all over the digital universe to be the very best. As the nintendo company keeps releaseing new pokemone with every generation, this model can also be used to predict the type of pokemon that will be released as Pokemon does try to keep a balance in their creations.
