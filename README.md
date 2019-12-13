@@ -20,6 +20,7 @@ https://www.pokemon.com/us/ is a website run by Pokemon, owned by the parent com
 
 ## Statitstical Tests Used
 In order to determine a bestfit model, the following 9 were tested. As you can see below KNN was the most effective with a K value of 1. 
+![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/Screen%20Shot%202019-12-12%20at%207.44.04%20PM.png)
 
 ## Visualization of Model Confusion Matrix 
 ## Baseline Model
