@@ -18,13 +18,13 @@ and saved as pokemon.csv file
 
 ## Visualization of Model Confusion Matrix 
 ## Baseline Model
-![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/baseline_model.png)
+![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/baseline_conf_martix.png)
   
 ## Logistic Regression
- ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/log_conf_matrix.png)
+ ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/log_conf_martix.png)
   
 ## KNN
-  ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/knn_conf_matrix.png)
+  ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/knn_conf_martix.png)
  
 ## Decision Tree
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/dt_conf_matrix.png)
