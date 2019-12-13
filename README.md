@@ -18,13 +18,13 @@ and saved as pokemon.csv file
 
 ## Visualization of Model Confusion Matrix 
 ## Baseline Model
-![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/baseline_model.png)
+![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/baseline_conf_martix.png)
   
 ## Logistic Regression
- ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/log_conf_matrix.png)
+ ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/log_conf_martix.png)
   
 ## KNN
-  ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/knn_conf_matrix.png)
+  ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/knn_conf_martix.png)
  
 ## Decision Tree
   ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/dt_conf_matrix.png)
@@ -52,4 +52,5 @@ and saved as pokemon.csv file
 ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/result.png)
 
 ## Conclusion
-After my machine learning models experiments and extensive feature selection, i had good results with that my best model used  XGBoost.
+After my machine learning models experiments and extensive feature selection, i had good results with that my best model used  KNN with k = 1.
+![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/Screen%20Shot%202019-12-12%20at%206.58.33%20PM.png)
