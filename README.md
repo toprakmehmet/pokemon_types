@@ -2,14 +2,12 @@
 ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/International_Pok%C3%A9mon_logo.svg.png)
 ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/dims.jpeg)
 
-## Goal
-Build best fit machine learning models to predict type of a Pokemon
-
-## Data Source
-The data was web scraped from https://www.pokemon.com/us/ 
-and saved as a pokemon.csv file
-
-https://www.pokemon.com/us/ is a website run by Pokemon, owned by the parent company of Nintendo. It is a site that mains current and past records of all Pokemon statistics and types.
+## Description 
+This predictive model can classify Pokemon types based on traits they possess!
+● Scraped data from ​https://www.pokemon.com/us/
+● Gathered 27 features on 810 pokemon
+● Engineered features from raw data that ended up being the most influential on model accuracy
+● Compared evaluation metrics of 9 models to find top performer; KNN was most effective with K value of 1
 
 ## Python Tools:
    - Pandas
@@ -17,9 +15,6 @@ https://www.pokemon.com/us/ is a website run by Pokemon, owned by the parent com
    - Sklearn
    - Seaborn/Matplotlib
    - SciPy/NumPy
-
-## Statitstical Tests Used
-In order to determine a bestfit model, the following 9 were tested. As you can see below KNN was the most effective with a K value of 1.
 
 ## KNN
 ![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/Screen%20Shot%202019-12-12%20at%207.44.04%20PM.png)
