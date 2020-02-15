@@ -3,11 +3,11 @@
 ![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/dims.jpeg)
 
 ## Description 
-This predictive model can classify Pokemon types based on traits they possess!
-● Scraped data from ​https://www.pokemon.com/us/
-● Gathered 27 features on 810 pokemon
-● Engineered features from raw data that ended up being the most influential on model accuracy
-● Compared evaluation metrics of 9 models to find top performer; KNN was most effective with K value of 1
+ This predictive model can classify Pokemon types based on traits they possess!
+   - Scraped data from ​https://www.pokemon.com/us/
+   - Gathered 27 features on 810 pokemon
+   - Engineered features from raw data that ended up being the most influential on model accuracy
+   - Compared evaluation metrics of 9 models to find top performer; KNN was most effective with K value of 1
 
 ## Python Tools:
    - Pandas
